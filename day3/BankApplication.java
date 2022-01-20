@@ -279,6 +279,9 @@ public class BankApplication {
 				System.out.println("Exiting the application");
 				break;
 			}
+			else {
+				System.out.println("Wrong Input Provided");
+			}
 		}
 	}
 
